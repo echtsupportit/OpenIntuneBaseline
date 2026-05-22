@@ -1,0 +1,9 @@
+{
+  "customerName": "Echt IT",
+  "customerCode": "EIT",
+  "nameFormat": "{CustomerCode} - {OriginalName}",
+  "preserveOibId": true,
+  "sourceBaselinePath": "WINDOWS/IntuneManagement",
+  "generatedOutputPath": "CUSTOMERS/EchtIT/Output/generated",
+  "assignmentMode": "PilotFirst"
+}

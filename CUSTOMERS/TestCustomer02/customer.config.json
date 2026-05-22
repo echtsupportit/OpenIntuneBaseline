@@ -1,0 +1,9 @@
+{
+  "customerName": "Test Customer 02",
+  "customerCode": "TC02",
+  "nameFormat": "{CustomerCode} - {OriginalName}",
+  "preserveOibId": true,
+  "sourceBaselinePath": "WINDOWS/IntuneManagement",
+  "generatedOutputPath": "CUSTOMERS/TestCustomer02/Output/generated",
+  "assignmentMode": "PilotFirst"
+}

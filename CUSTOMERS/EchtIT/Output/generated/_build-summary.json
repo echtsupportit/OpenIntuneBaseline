@@ -1,0 +1,11 @@
+{
+  "CustomerName": "Echt IT",
+  "CustomerCode": "EIT",
+  "SourceBaselinePath": "C:\\Github\\OpenIntuneBaseline\\WINDOWS\\IntuneManagement",
+  "OutputPath": "C:\\Github\\OpenIntuneBaseline\\CUSTOMERS\\EchtIT\\Output\\generated",
+  "ProcessedJsonFiles": 73,
+  "SkippedJsonFiles": 0,
+  "RenamedProperties": 73,
+  "MissingOibIdWarnings": 0,
+  "GeneratedAtUtc": "2026-05-22T07:43:46.9892843Z"
+}
